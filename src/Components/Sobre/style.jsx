@@ -23,7 +23,5 @@ border: none;
 padding: 10px 30px;
 font-weight: bold;
 border-radius: 30px;
-
-;
-    
+cursor: pointer;
 `
