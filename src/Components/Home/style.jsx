@@ -69,5 +69,7 @@ justify-content: space-around;
 align-items: center;
 flex-direction: row;
 position: relative;
+cursor: pointer;
+
   
 `
