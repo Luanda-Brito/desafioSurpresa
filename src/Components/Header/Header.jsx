@@ -4,7 +4,7 @@ import { HeaderStyle } from "./style"
 export default function Header(){
     return(
         <HeaderStyle>
-            <img src="src\assets\images\logo.png" alt="logomarca" />
+            <img src="https://raw.githubusercontent.com/mariaccarolina/desafioSurpresa/496e16d63d9b8430605e63b086aee1aac18d22b3/src/assets/images/logo.png" alt="logomarca" />
             <nav>
                 <ul>
                     <li>

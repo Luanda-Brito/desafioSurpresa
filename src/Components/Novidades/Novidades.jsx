@@ -1,9 +1,10 @@
+import torra from "../../assets/images/torra.png"
 import { Section, Div, Button } from "./style"
 
 export default function Novidades() {
     return (
         <Section>
-        <img src="src\assets\images\torra.png" alt="torra" />
+        <img src={torra} alt="torra" />
         <Div>
             <h3>PREPARAÇÃO</h3>
             <h2>Níveis de torra</h2>
