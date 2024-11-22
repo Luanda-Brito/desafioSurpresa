@@ -7,6 +7,7 @@ export const HeaderStyle = styled.header`
   padding: 0 40px;
   height: 70px; 
   background-color: white;
+  font-family: "Poppins", sans-serif;
 
   img {
     height: 60px;

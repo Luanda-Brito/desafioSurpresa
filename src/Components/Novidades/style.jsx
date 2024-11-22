@@ -11,10 +11,21 @@ color: white;
 `
 
 export const Div = styled.div`
-    width: 40vw; 
+width: 40vw; 
+
+h3{
+    font-size: 19px;
+    font-family: "Inter", sans-serif;
+}
 
 h2{
     font-size: 40px;
+    font-family: "Poppins", sans-serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
 }
 `
 
@@ -26,4 +37,5 @@ padding: 10px 30px;
 font-weight: bold;
 border-radius: 30px;
 cursor: pointer;
+font-family: "Inter", sans-serif;
 `
